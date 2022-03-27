@@ -1,5 +1,12 @@
 # minyang-chen.github.io
-web home for personal stuff
+
+Personal web stuff:
+
+  Github: https://minyang-chen.github.io
+
+   Azure: https://website76.z9.web.core.windows.net/
+
+Amazon: http://mywebsite76.s3-website.ca-central-1.amazonaws.com
 
 ---
 
